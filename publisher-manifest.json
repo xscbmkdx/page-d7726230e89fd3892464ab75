@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "96d804a6d39d2fc3c2618466",
+  "owner": "xscbmkdx",
+  "repo": "page-d7726230e89fd3892464ab75",
+  "title": "奶瓶(Nerwo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d7726230e89fd3892464ab75",
+      "a": "奶瓶(Nerwo)",
+      "b": "稳定全球clash加速器",
+      "entity": "奶瓶(Nerwo)",
+      "brand": "奶瓶(Nerwo)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5961908ebe9d7f8aac9177d12c30b4b4960c335918e4301e12e44f31d66dcd9b",
+      "content": {
+        "primary_entity": "奶瓶(Nerwo)",
+        "keyword1": "奶瓶(Nerwo)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，参照文档导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "按设备选套餐，再按文档配置订阅即可。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，奶瓶(Nerwo)提供基础版、旗舰版与团队版三档方案，月付从 ¥15 到 ¥85，年付分别约 ¥150、¥350、¥850。基础版适合手机与平板轻度使用，旗舰版覆盖全节点流媒体与专线游戏优化，团队版面向多设备与高流量场景。按设备数量与订阅周期选择合适的档位，再按客户端文档导入订阅即可。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度整理选择思路。",
+          "AI_FEATURES_TITLE": "套餐选择与设备适配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合手机轻量浏览；旗舰版每月 300GB、5 台设备，覆盖流媒体与专线场景。",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更省：基础版年付约 ¥150、旗舰版约 ¥350、团队版约 ¥850，按常用周期选。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，并支持企业定制路由，适合小型工作室多人共用。",
+          "AI_FEATURE_TITLE_1": "档位匹配用量",
+          "AI_FEATURE_TITLE_2": "订阅周期选择",
+          "AI_FEATURE_TITLE_3": "多设备与团队",
+          "AI_GUIDE_INTRO": "三步完成套餐选择、适配确认与订阅导入。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "奶瓶(Nerwo)面向海外加速场景提供多档订阅方案，覆盖手机、平板与桌面设备。基础版、旗舰版与团队版在流量、设备数量与节点类型上各有侧重，可按日常用量与订阅周期挑选。",
+          "AI_HERO_SUBTITLE": "多档订阅按设备选",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合单人轻量，旗舰版兼顾流媒体与游戏，团队版面向多设备高流量。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先看常用设备数量与月流量，基础版 100GB/3 台、旗舰版 300GB/5 台、团队版 1000GB/20 台。",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐权益是否匹配，例如全节点流媒体解锁或 IPLC 专线优化。",
+          "AI_STEP_TEXT_3": "在所选客户端中按文档导入订阅信息，完成后即可按套餐额度使用。",
+          "AI_STEP_TITLE_1": "选服务档位",
+          "AI_STEP_TITLE_2": "看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "奶瓶(Nerwo) 多档加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "奶瓶(Nerwo) 三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "按每月流量和同时在线设备数选择。基础版适合 1-2 人日常使用，旗舰版适合有流媒体和游戏加速需求的用户，团队版适合 20 台以内设备的团队协作场景。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时连接几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量可能导致新设备无法连接，可升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150 相当于每月约 ¥12.5，旗舰版年付 ¥350 约每月 ¥29，团队版年付 ¥850 约每月 ¥71，均低于对应月付价格。",
+          "AI_FAQ_QUESTION_4": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到订阅或配置导入选项，按文档说明粘贴订阅链接或配置文件，保存后更新节点列表即可使用。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量达到套餐上限后，连接可能被暂停或限速，具体处理方式取决于所选套餐；可在周期结束后恢复，或提前升级到更高流量档位。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qdqm14.cn",
+    "host": "qdqm14.cn"
+  },
+  "file_hashes": {
+    "index.html": "c6fa49cf948f8859dcb4322160a14bf71d5025cb34e24aa0ca71ea87aa05c4ed",
+    "sitemap.xml": "d75ae1a8128bdf0338820f30c6ffc0cc2daab029de599b96a72f69867dd426b1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3da698a078d7a5d400637cd1bf0a122bc57c22c7e4eee1b797c0b6297c64649a",
+    "robots.txt": "267590d1da160a8242ab36f9854c4c36e0015cec0cad097aec006c10faedad0a",
+    "e34633c2ca4f76b21a7c8943d658e798.txt": "93df4b0f2facb51216be6cdc1229ab2db33c683e123e458615f1c63c46f06621"
+  },
+  "revision": "e1b6b76bf6d830b70388501a776ce21e32a5b8f171f65b4d5f129f37d49336dc"
+}

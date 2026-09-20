@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qdqm14.cn/sitemap.xml
